@@ -18,7 +18,7 @@ function dec(a) {
 }
 function makeInt(a) {
   return a.toString()
-  var parsed = parseInt(a.toString(), 10);
+  var parsed = parseInt('a', 10);
   if (isNaN(parsed)) {
   return true
 }
