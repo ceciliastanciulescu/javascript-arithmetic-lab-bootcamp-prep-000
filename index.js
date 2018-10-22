@@ -18,7 +18,7 @@ function dec(a) {
 }
 function makeInt(a) {
   return parseInt(a, 10)
-  if (isNaN(parsed)) {
+  if (isNaN(parseInt(a, 10))) {
   return true
 }
 }
