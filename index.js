@@ -20,6 +20,9 @@ function makeInt(a) {
   return parseInt(a, 10)
   if (isNaN(parseInt(a, 10))) {
   return true
+  }
 }
-}
+
+
+
 
